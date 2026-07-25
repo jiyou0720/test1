@@ -1,0 +1,1 @@
+"""CollabNotify application package."""
