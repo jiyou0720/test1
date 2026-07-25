@@ -1,0 +1,5 @@
+{
+  "seed": 42,
+  "max_attempts": 50,
+  "allow_conflicts": false
+}
