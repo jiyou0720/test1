@@ -1,0 +1,6 @@
+{
+  "default": {
+    "max_daily_courses": 4,
+    "max_consecutive_hours": 2
+  }
+}
